@@ -1,0 +1,2 @@
+a newf.txt created in gitb2
+merged with main branch
